@@ -2,8 +2,8 @@
 ## Get the Code
 
 ```
-$ git clone https://github.com/CodAffection/React-CRUD-with-Asp.Net-Core-Web-API.git
-$ cd React-CRUD-with-Asp.Net-Core-Web-API/react-app
+$ git clone https://github.com/abdou-88/CRUD-Asp.Net-Reactjs.git
+$ cd react-app
 $ npm install
 //update Web API DB connection string
 ```
