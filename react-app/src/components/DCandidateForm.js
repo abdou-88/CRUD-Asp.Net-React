@@ -76,7 +76,7 @@ const DCandidateForm = ({ classes, ...props }) => {
         if (validate()) {
             const onSuccess = () => {
                 resetForm()
-                addToast("Submitted successfully", { appearance: 'success' })
+                addToast("Order submitted successfully", { appearance: 'success' })
             }
             if (props.currentId == 0)
                 props.createDCandidate(values, onSuccess)
